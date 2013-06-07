@@ -1,0 +1,30 @@
+{
+    "name": "nurunworkshop.nurun-bower-ws",
+    "title": "jQuery Nurun Bower Workshop",
+    "description": "Cool Stuff",
+    "keywords": [
+        "nurun",
+        "tutoriel",
+        "formation"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Yannik Méthot",
+        "email": "yannik.methot@nurun.com"
+    },
+    "maintainers": [
+        {
+            "name": "Yannik Méthot",
+            "email": "yannik.methot@nurun.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": "~1.8"
+    }
+}

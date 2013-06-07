@@ -1,0 +1,1 @@
+﻿(function(e){e.fn.monPlugin=function(t){function s(){var t=e(this);var n=new o(t)}function o(e){var t=this;e.html("Hello World");var n=e.text();if(n.indexOf("Félicitation")>0){e.addClass("success")}if(n.indexOf("wrong")>0){e.addClass("fail")}}var n={};var r=e(this);var i;e.extend(n,t);r.each(s)}})(jQuery)
